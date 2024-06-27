@@ -51,10 +51,7 @@ License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Notes:
-Replace placeholders like your-username with your actual GitHub username or organization name.
-Ensure all API keys and sensitive information are handled securely, preferably using environment variables or secure vaults.
-Provide clear instructions on how users can obtain and configure API keys for Nutritionix and Sheety APIs.
-Add any additional sections or details specific to your project's setup or usage.
+
 This README provides a basic structure to help users understand, install, and utilize your health tracking application effectively. Adjust it according to your specific project details and audience needs.
 
 
